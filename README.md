@@ -1,8 +1,7 @@
-<h1 align="center">୨୧ ･ﾟ:* Hola, soy Kaju Padilla *:･ﾟ୨୧</h1>
+
 
 <p align="center">
 🌸 Frontend & Backend Developer | 📱 App Builder | ☁️ Dreamer  
-💻 Apasionada por el código bonito, las apps útiles y los proyectos creativos
 </p>
 
 ---
@@ -24,7 +23,6 @@
 | 🌐 Web | HTML · CSS · Bootstrap |
 | 🖥️ Backend | Node.js · Express.js · MySQL |
 | 📱 Mobile | Swift · SwiftUI |
-| 🛠️ Otros | Git · GitHub · Linux · Networking |
 
 </div>
 
@@ -42,16 +40,7 @@
 
 ---
 
-## 🌸 Habilidades
 
-| Habilidad | Nivel |
-|:---------:|:-----:|
-| 🌼 Node.js | ⭐⭐⭐⭐☆ |
-| 🌼 Swift | ⭐⭐⭐⭐☆ |
-| 🌼 MySQL | ⭐⭐⭐⭐☆ |
-| 🌼 Git & GitHub | ⭐⭐⭐⭐⭐ |
-| 🌼 Networking | ⭐⭐⭐⭐☆ |
-| 🌼 Automatización | ⭐⭐⭐⭐☆ |
 
 ---
 
