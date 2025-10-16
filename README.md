@@ -51,6 +51,6 @@
 ---
 
 <p align="center">
-(っ◔◡◔)っ ♥ "Crear es mi forma favorita de soñar despierta" ♥
+(っ◔◡◔)っ ♥ "Limpio y seguro, y lo siento pero bajo mis condiciones" ♥
 </p>
 
